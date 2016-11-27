@@ -1,11 +1,11 @@
 {
-  "name": "jane-q-fullstacker",
-  "version": "0.4.0",
+  "name": "personal-cv",
+  "version": "0.0.0",
   "private": true,
-  "description": "An example FRESH-format resume for Jane Q. Fullstacker, a fictitious full-stack software developer.",
+  "description": "The latest version of my CV to be shared with other projects.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fluentdesk/jane-q-fullstacker.git"
+    "url": "https://github.com/johndi9/PersonalCV.git"
   },
   "keywords": [
     "resume",
@@ -15,11 +15,11 @@
     "schema",
     "JSON"
   ],
-  "author": "hacksalot <hacksalot@indevious.com> (https://github.com/hacksalot)",
+  "author": "Juan Diego de Miguel <johndi9@hotmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fluentdesk/jane-q-fullstacker/issues"
+    "url": "https://github.com/johndi9/PersonalCV/issues"
   },
-  "main": "resume/jane-resume.json",
-  "homepage": "https://github.com/fluentdesk/jane-q-fullstacker"
+  "main": "curriculum/personal-cv.json",
+  "homepage": "https://github.com/johndi9/PersonalCV"
 }
