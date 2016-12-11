@@ -1,125 +1,253 @@
 {
-
-  "name": "Jane Q. Fullstacker",
-
+  "name": "Juan Diego de Miguel Mateo",
   "meta": {
     "format": "FRESH@0.6.0",
-    "version": "0.4.0"
+    "version": "0.0.0"
   },
-
   "info": {
-    "label": "Senior Developer",
-    "characterClass": "Programmer",
-    "brief": "**Imaginary full-stack software developer with 6+ years industry experience** specializing in cloud-driven web applications and middleware. A native of southern CA, Jane enjoys hiking, mystery novels, and the company of Rufus, her two year old beagle.",
-    "image": "jane_doe.png",
-    "quote": "Be the change you want to see in the world."
+    "label": "Frontend Developer",
+    //    "characterClass": "Fronten\\\\\\\\\\\
+    //    "brief": "**Imaginary full-stack software developer with 6+ years industry experience** specializing in cloud-driven web applications and middleware. A native of southern CA, Jane enjoys hiking, mystery novels, and the company of Rufus, her two year old beagle.",
+    //    "image": "profile-pic.png",
+    //    "quote": "Be the change you want to see in the world."
   },
-
   "contact": {
-    "website": "http://janef.me/blog",
-    "phone": "1-650-999-7777",
-    "email": "jdoe@onecoolstartup.io",
+    "website": "Not yet defined",
+    "phone": "+33 783 08 96 27",
+    "email": "johndi9@hotmail.com",
     "other": [
       {
         "label": "Home Phone",
         "flavor": "phone",
-        "value": "1-650-999-4321"
-      },
-      {
-        "label": "Work Phone",
-        "flavor": "phone",
-        "value": "1-650-777-1234"
+        "value": "+33 483 44 61 49"
       },
       {
         "label": "Personal Email",
         "flavor": "email",
-        "value": "jane@janef.me"
+        "value": "juandiegodemiguel@gmail.com"
       }
     ]
   },
-
   "location": {
-    "address": "Jane Fullstacker\n123 Somewhere Rd.\nMountain View, CA 94035",
-    "city": "Mountain View",
-    "region": "CA",
-    "code": "94035",
-    "country": "US"
+    "address": "124 Avenue Maurice Chevalier, Batiment C2",
+    "city": "Cannes",
+    "code": "06150",
+    "country": "FR"
   },
-
   "projects": [
     {
-      "title": "HackMyResume",
-      "category": "FOSS",
-      "role": "contributor",
-      "url": "http://please.hackmyresume.com",
-      "start": "2015-09",
-      "repo": "https://github.com/hacksalot/hackmyresume",
-      "description": "A resume authoring and analysis tool for OS X, Linux, and Windows.",
-      "summary": "Exemplar user for HackMyResume and FluentCV!",
-      "keywords": ["JavaScript", "Node.js", "cross-platform", "JSON"],
-      "media": [
-        {
-          "category": "download",
-          "url": "https://www.npmjs.com/package/hackmyresume"
-        }
+      "employer": "Amadeus IT Group",
+      "location": "Nice, France",
+      "title": "Miles and More - Lufthansa AG",
+      "category": "airline",
+      "role": "Frontend developer",
+      "url": "https://www.miles-and-more.com",
+      "start": "2016-01",
+      "end": "",
+      "description": "",
+      "summary": "Miles and More web app allows the user to do flight reservations with personal miles, upgrade reservations to different fares and many other services.",
+      "keywords": [],
+      "highlights": [
+        "Full renovation of the current MaM application from JSP + JQuery to Angular 2 (developing the project in the first beta versions of Angular 2) in Typescript.",
+        "In charge of developing the availability flight table + seat map, complex interfaces that need to be re-rendered efficiently with Angular´s change detection."
       ]
     },
     {
-      "title": "Augmented Android",
-      "category": "commercial",
-      "role": "co-creator",
-      "url": "http://project.website.com",
-      "repo": "http://repo.website.com",
-      "description": "An augmented reality app for Android.",
-      "start": "2012-02",
-      "end": "2014-01",
-      "summary": "Performed flagship product conceptualization and development.",
-      "keywords": ["Android", "Java", "Xamarin"]
+      "employer": "Amadeus IT Group",
+      "location": "Nice, France",
+      "title": "Lufthansa booking & servicing application - WCAG compliant",
+      "category": "airline",
+      "role": "Frontend developer",
+      "url": "https://www.lufthansa.com",
+      "start": "2015-03",
+      "end": "2015-12",
+      "description": "",
+      "summary": "The US DoT imposed to all the airlines with flights in USA to use WCAG compliant websites. This project was created for Lufthansa in order to fulfill this requirement.",
+      "keywords": [],
+      "highlights": [
+        "Project to do the Lufthansa webapp (booking + servicing) accessible for screen readers (US DOT requirements), following correct web standards.",
+        "Partial migration of some components of the application from JSP/JQuery to ReactJS. All the new components must be compliant also with keyboard use.",
+        "Person to lead the full migration of the old CSS file (~12000 lines) into the new SASS structure (approximately 250 new files managed by Gulp).",
+        "Support with the new Edge browser in Windows 10."
+      ]
     },
     {
-      "title": "Blog",
-      "category": "personal",
-      "role": "creator",
-      "url": "http://myblog.jane.com/blog",
-      "description": "My programming blog. Powered by Jekyll.",
-      "summary": "Conceptualization, design, development, and deployment.",
-      "keywords": ["Jekyll", "Ruby", "HTML 5", "JavaScript", "HTTP", "LAMP"]
+      "employer": "Management Solutions",
+      "location": "Madrid, Spain",
+      "title": "SAI - Santander Bank database management tool",
+      "category": "banking",
+      "role": "Full Stack",
+      "url": "",
+      "start": "2014-06",
+      "end": "2014-11",
+      "description": "",
+      "summary": "System to manage the Santander Bank databases in Mexico redesigned for all browsers, mobiles and tablet devices.",
+      "keywords": [],
+      "highlights": [
+        "Allows to modify the general state of databases, revert several changes of different users with backup sql, create databases backup, etc.",
+        "Different access areas depending on the personal permissions, different roles, etc."
+      ]
+    },
+    {
+      "employer": "Management Solutions",
+      "location": "Madrid, Spain",
+      "title": "MIR - Risk management tool",
+      "category": "banking",
+      "role": "Full Stack",
+      "url": "",
+      "start": "2014-02",
+      "end": "2014-06",
+      "description": "",
+      "summary": "System to analyze bank risk operations following the International regulatory framework for banks (Basel III).",
+      "keywords": [],
+      "highlights": [
+        "Allows to present to the banks a detailed information related to the customer's non-payment risk.",
+        "Private access to different banks/saving banks in different countries such as Mexico BBVA or BANKIA."
+      ]
+    },
+    {
+      "employer": "Juan Diego Miguel",
+      "location": "Madrid, Spain",
+      "title": "Ribbers",
+      "category": "Clothing",
+      "role": "Full Stack",
+      "url": "",
+      "start": "2014-01",
+      "end": "2014-04",
+      "description": "",
+      "summary": "Studied and promoted solution for selling trainers via online shopping.",
+      "keywords": [],
+      "highlights": [
+        "InDesign document for product promotion.",
+        "Evaluated online shopping solution based on Magento framework."
+      ]
+    },
+    {
+      "employer": "CRC Information Technologies",
+      "location": "Madrid, Spain",
+      "title": "Iberia Empleo",
+      "category": "Airline",
+      "role": "Designer",
+      "url": "https://portal.iberia.es/iberiaEmpleo/",
+      "start": "2013-09",
+      "end": "2013-11",
+      "description": "",
+      "summary": "Public website and private area for job applicants.",
+      "keywords": [],
+      "highlights": [
+        "Iberia Airlines redesigned for all browsers and for mobile and tablets devices with Iberia Airlines main page themes."
+      ]
+    },
+    {
+      "employer": "CRC Information Technologies",
+      "location": "Madrid, Spain",
+      "title": "Iberia Express Personal Management System",
+      "category": "Airline",
+      "role": "Designer",
+      "url": "",
+      "start": "2013-08",
+      "end": "2013-09",
+      "description": "",
+      "summary": "Internal webapp for Iberia Express employees to manage personal preferences and information, internal applications, etc.",
+      "keywords": [],
+      "highlights": [
+        "Iberia Express redesigned for all browsers and for mobile and tablets devices with Twitter Bootstrap 3."
+      ]
+    },
+    {
+      "employer": "CRC Information Technologies",
+      "location": "Madrid, Spain",
+      "title": "Cofrentes Nuclear Power Station Management System",
+      "category": "Nuclear power station",
+      "role": "Full Stack",
+      "url": "",
+      "start": "2013-04",
+      "end": "2013-06",
+      "description": "",
+      "summary": "Internal webapp for Cofrentes employees to manage nuclear power station processes.",
+      "keywords": [],
+      "highlights": [
+        "Renovation of the Cofrentes Nuclear Power Station Management System and the incorporation of different tools to convert Excel files into processes of the Nuclear Power Station and into Word files.",
+        "Designed for all browsers and for tablet and TV devices."
+      ]
+    },
+    {
+      "employer": "CRC Information Technologies",
+      "location": "Madrid, Spain",
+      "title": "Angular JS Experimental Project",
+      "category": "Prototype",
+      "role": "Full Stack",
+      "url": "",
+      "start": "2013-06",
+      "end": "2013-07",
+      "description": "",
+      "summary": "Experimental project based on 'Chinpun' project module, developed entirely with AngularJS.",
+      "keywords": [],
+      "highlights": [
+        "Designed for all browsers and for mobile and tablet devices with Twitter Bootstrap 3."
+      ]
+    },
+    {
+      "employer": "CRC Information Technologies",
+      "location": "Madrid, Spain",
+      "title": "Chinpun Company Management System",
+      "category": "Company management",
+      "role": "Full Stack",
+      "url": "",
+      "start": "2012-10",
+      "end": "2013-12",
+      "description": "",
+      "summary": "Technical University Final Project that consists on a management system webapp for the company and employees.",
+      "keywords": [],
+      "highlights": [
+        "Grade: 10/10, Distinction.",
+        "Full design and developing of the MVC system to manage the company CRCIT with private access for employees.",
+        "Designed for all browsers and for mobile and tablet devices with Twitter Bootstrap 2.3.2.",
+        "Social Interface with the possibility to send alerts and comments instantaneously – improve project’s development."
+      ]
     }
   ],
-
   "social": [
-
     {
       "label": "GitHub",
       "network": "GitHub",
-      "user": "janef-was-here",
-      "url": "https://github.com/janef-was-here"
+      "user": "johndi9",
+      "url": "https://github.com/johndi9"
     },
-
     {
       "label": "Twitter",
       "network": "Twitter",
-      "user": "janef-was-here",
-      "url": "https://twitter.com/janef-was-here"
+      "user": "juandiegodemi",
+      "url": "https://twitter.com/juandiegodemi"
     }
   ],
-
   "employment": {
-
     "summary": "7+ years industry IT and software development experience.",
-
     "history": [
-
       {
         "employer": "Area 52",
         "url": "https://area52.io/does-not-exist",
         "position": "Head Code Ninja",
         "summary": "Development team manager for [**Quantum Diorama**](https://en.wikipedia.org/wiki/Vaporware), a distributed molecular modeling and analysis suite for Linux and OS X.",
         "start": "2013-09",
-        "keywords": ["Agile","PM","C","C++","R","OpenGL","Boost","MySQL","PostgreSQL","JIRA"],
-        "highlights": ["Managed a 5-person development team", "Accomplishment 2", "Etc."]
+        "keywords": [
+          "Agile",
+          "PM",
+          "C",
+          "C++",
+          "R",
+          "OpenGL",
+          "Boost",
+          "MySQL",
+          "PostgreSQL",
+          "JIRA"
+        ],
+        "highlights": [
+          "Managed a 5-person development team",
+          "Accomplishment 2",
+          "Etc."
+        ]
       },
-
       {
         "employer": "Veridian Dynamics",
         "url": "https://en.wikipedia.org/wiki/Better_Off_Ted#Plot",
@@ -127,43 +255,62 @@
         "summary": "Developer on numerous projects culminating in technical lead role for the [Jabberwocky project](http://betteroffted.wikia.com/wiki/Jabberwocky) and promotion to principal developer.",
         "start": "2011-07",
         "end": "2013-08",
-        "keywords": ["C++","C","Linux","R","Clojure"],
-        "highlights": ["Managed a 5-person development team", "Accomplishment 2", "Etc."]
+        "keywords": [
+          "C++",
+          "C",
+          "Linux",
+          "R",
+          "Clojure"
+        ],
+        "highlights": [
+          "Managed a 5-person development team",
+          "Accomplishment 2",
+          "Etc."
+        ]
       },
-
       {
         "employer": "Stark Industries",
         "position": "IT Administrator",
         "summary": "Junior programmer with heavy code responsibilities. Promoted to intermediate role after 6 months.",
         "start": "2008-10",
         "end": "2011-06",
-        "keywords": ["Novell","Active Directory","Linux","Windows"],
-        "highlights": ["Promoted to intermediate developer after 6 months", "Accomplishment 2", "Etc."]
+        "keywords": [
+          "Novell",
+          "Active Directory",
+          "Linux",
+          "Windows"
+        ],
+        "highlights": [
+          "Promoted to intermediate developer after 6 months",
+          "Accomplishment 2",
+          "Etc."
+        ]
       },
-
       {
         "employer": "Dunder Mifflin",
         "position": "Intern",
         "summary": "Performed IT administration and deployments for Dunder Mifflin.",
         "start": "2008-06",
         "end": "2008-09",
-        "keywords": ["Novell","Active Directory","Linux","Windows"],
-        "highlights": ["Supervised roll-out of Dunder Mifflin Infinity website.", "Performed mission-critical system backups and ", "Etc."]
+        "keywords": [
+          "Novell",
+          "Active Directory",
+          "Linux",
+          "Windows"
+        ],
+        "highlights": [
+          "Supervised roll-out of Dunder Mifflin Infinity website.",
+          "Performed mission-critical system backups and ",
+          "Etc."
+        ]
       }
     ]
-
   },
-
   "education": {
-
     "summary": "",
-
     "level": "degree",
-
     "degree": "BSCS",
-
     "history": [
-
       {
         "institution": "Cornell University",
         "title": "BSCS",
@@ -172,9 +319,12 @@
         "end": "2008-05",
         "grade": "3.5",
         "summary": "A multiline summary of the education.",
-        "curriculum": ["Course 1", "Course 2", "Course 2"]
+        "curriculum": [
+          "Course 1",
+          "Course 2",
+          "Course 2"
+        ]
       },
-
       {
         "institution": "Medfield College",
         "title": "",
@@ -183,12 +333,14 @@
         "end": "2005-06",
         "grade": "3.2",
         "summary": "A multiline summary of the education.",
-        "curriculum": ["Course 1", "Course 2", "Course 2"]
+        "curriculum": [
+          "Course 1",
+          "Course 2",
+          "Course 2"
+        ]
       }
     ]
-
   },
-
   "affiliation": {
     "summary": "Member of numerous collegiate and professional groups and organizations.",
     "history": [
@@ -221,76 +373,70 @@
       }
     ]
   },
-
   "service": {
-
-    "summary": "Active US Army Reserve member and Technology for Tots technical consultant and volunteer coordinator.",
-
-    "history": [
-      {
-        "flavor": "volunteer",
-        "position": "Technical Consultant",
-        "organization": "Technology for Tots",
-        "url": "http://technology-for-tots.org",
-        "start": "2003-11",
-        "end": "2005-06",
-        "summary": "Summary of this volunteer stint.",
-        "highlights": ["Accomplishment 1", "Accomplishment 2", "etc"]
-      },
-      {
-        "flavor": "military",
-        "position": "NCO",
-        "organization": "US Army Reserves",
-        "url": "http://www.usar.army.mil/",
-        "start": "1999-11",
-        "end": "2003-06",
-        "summary": "Summary of this military stint.",
-        "highlights": ["Accomplishment 1", "Accomplishment 2", "etc"]
-      }
-    ]
-
   },
-
   "skills": {
-
     "sets": [
       {
         "name": "Web",
         "level": "advanced",
         "skills": [
-          "JavaScript", "HTML 5", "CSS", "LAMP", "MVC", "REST"
+          "JavaScript",
+          "HTML 5",
+          "CSS",
+          "LAMP",
+          "MVC",
+          "REST"
         ]
       },
       {
         "name": "JavaScript",
         "level": "master",
         "skills": [
-          "Node.js", "Angular.js", "jQuery", "Bootstrap", "React.js", "Backbone.js"
+          "Node.js",
+          "Angular.js",
+          "jQuery",
+          "Bootstrap",
+          "React.js",
+          "Backbone.js"
         ]
       },
       {
         "name": "Database",
         "level": "intermediate",
         "skills": [
-          "MySQL", "PostgreSQL", "NoSQL", "ORM", "Hibernate"
+          "MySQL",
+          "PostgreSQL",
+          "NoSQL",
+          "ORM",
+          "Hibernate"
         ]
       },
       {
         "name": "Cloud",
         "level": "intermediate",
         "skills": [
-          "AWS", "EC2", "RDS", "S3", "Azure", "Dropbox"
+          "AWS",
+          "EC2",
+          "RDS",
+          "S3",
+          "Azure",
+          "Dropbox"
         ]
       },
       {
         "name": "Project",
         "level": "beginner",
         "skills": [
-          "Agile", "TFS", "JIRA", "GitHub", "Unified Process", "MS Project"
+          "Agile",
+          "TFS",
+          "JIRA",
+          "GitHub",
+          "Unified Process",
+          "MS Project"
         ]
       }
     ],
-
     "list": [
       {
         "name": "C++",
@@ -328,7 +474,6 @@
       }
     ]
   },
-
   "samples": [
     {
       "title": "Asteroids",
@@ -343,7 +488,6 @@
       "date": "2015-07"
     }
   ],
-
   "writing": [
     {
       "title": "Teach Yourself GORFF in 21 Days",
@@ -354,7 +498,10 @@
         "url": "https://www.amazon.com"
       },
       "url": "http://url.to.publication.com/blah",
-      "author": [ "Jane Fullstacker", "John Smith" ],
+      "author": [
+        "Jane Fullstacker",
+        "John Smith"
+      ],
       "summary": "A primer on the programming language of GORFF, whose for loops are coterminous with all of time and space."
     },
     {
@@ -378,7 +525,6 @@
       "url": "http://janef.me"
     }
   ],
-
   "reading": [
     {
       "title": "r/programming",
@@ -408,7 +554,6 @@
       "summary": "My 'desert-island' software construction manual."
     }
   ],
-
   "speaking": [
     {
       "title": "Data Warehousing Evolved: DARMA 2.0",
@@ -421,7 +566,6 @@
       ]
     }
   ],
-
   "recognition": [
     {
       "flavor": "award",
@@ -438,7 +582,6 @@
       "date": "2012"
     }
   ],
-
   "references": [
     {
       "name": "John Davidson",
@@ -458,7 +601,6 @@
       ]
     }
   ],
-
   "testimonials": [
     {
       "name": "John Davidson",
@@ -477,7 +619,6 @@
       "quote": "I've known Jane personally and professionally for almost ten years. She is one in a million."
     }
   ],
-
   "languages": [
     {
       "language": "English",
@@ -489,7 +630,6 @@
       "years": 10
     }
   ],
-
   "extracurricular": [
     {
       "title": "Bay Area Crew Club",
@@ -507,10 +647,8 @@
         "Monthly speaker on creative JavaScript development.",
         "Founded group and oversaw growth to 500+ members."
       ]
-
     }
   ],
-
   "governance": [
     {
       "flavor": "board",
@@ -532,12 +670,15 @@
       ]
     }
   ],
-
   "interests": [
     {
       "name": "reading",
       "summary": "Jane is a fan of mystery novels and courtroom dramas including Agatha Christie and John Grisham.",
-      "keywords": [ "mystery", "Agatha Christie", "John Grisham" ]
+      "keywords": [
+        "mystery",
+        "Agatha Christie",
+        "John Grisham"
+      ]
     },
     {
       "name": "hiking",
@@ -547,6 +688,4 @@
       "name": "yoga"
     }
   ]
-
-
 }
