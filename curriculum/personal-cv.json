@@ -6,21 +6,15 @@
   },
   "info": {
     "label": "Frontend Developer",
-    //    "characterClass": "Fronten\\\\\\\\\\\
-    //    "brief": "**Imaginary full-stack software developer with 6+ years industry experience** specializing in cloud-driven web applications and middleware. A native of southern CA, Jane enjoys hiking, mystery novels, and the company of Rufus, her two year old beagle.",
-    //    "image": "profile-pic.png",
-    //    "quote": "Be the change you want to see in the world."
+    "brief": "4+ years developing webapps with special passion and interest in all areas of Frontend development.",
+    "image": "profile-pic.png",
+    "quote": "Details and motivation are the key to success"
   },
   "contact": {
-    "website": "Not yet defined",
+    "website": "In process",
     "phone": "+33 783 08 96 27",
     "email": "johndi9@hotmail.com",
     "other": [
-      {
-        "label": "Home Phone",
-        "flavor": "phone",
-        "value": "+33 483 44 61 49"
-      },
       {
         "label": "Personal Email",
         "flavor": "email",
@@ -193,7 +187,7 @@
         "Grade: 10/10, Distinction.",
         "Full design and developing of the MVC system to manage the company CRCIT with private access for employees.",
         "Designed for all browsers and for mobile and tablet devices with Twitter Bootstrap 2.3.2.",
-        "Social Interface with the possibility to send alerts and comments instantaneously – improve project’s development."
+        "Social Interface with the possibility to send alerts and comments instantaneously - improve project’s development."
       ]
     },
     {
@@ -230,7 +224,7 @@
     }
   ],
   "employment": {
-    "summary": "4+ years developing webapps.",
+    "summary": "",
     "history": [
       {
         "employer": "Amadeus IT Group",
@@ -250,7 +244,13 @@
           "Webpack",
           "Gulp",
           "NPM",
-          "Bootstrap 4 for Angular 2",
+          "Bootstrap 4",
+          "Jasmine",
+          "Karma",
+          "Protractor",
+          "NVDA",
+          "JAWS",
+          "IntelliJ IDEA",
           "Confluence",
           "Bitbucket",
           "Jira",
@@ -258,12 +258,12 @@
           "Windows 7",
           "OSX",
           "Java 1.6 / 1.7",
-          "IntelliJ IDEA",
           "Weblogic",
           "Maven",
           "JSP",
           "JQuery",
-          "Apache"
+          "Apache",
+          "Jenkins"
         ],
         "highlights": [
           "Team expert in HTML/CSS-SASS/WCAG. The main tasks of this role are to maintain the code quality inside the team, give support and trainings to the team members and always keep updated in the latest news in the field.",
@@ -403,385 +403,200 @@
     ]
   },
   "education": {
-    "summary": "",
-    "level": "degree",
-    "degree": "BSCS",
     "history": [
       {
-        "institution": "Cornell University",
-        "title": "BSCS",
-        "url": "https://www.cornell.edu/",
-        "start": "2005-09",
-        "end": "2008-05",
-        "grade": "3.5",
-        "summary": "A multiline summary of the education.",
+        "institution": "Comillas Pontifical University - ICADE Business School",
+        "title": "Business Consulting Master",
+        "url": "http://www.comillas.edu",
+        "start": "2014",
+        "end": "2014",
+        "grade": "",
+        "summary": "",
         "curriculum": [
-          "Course 1",
-          "Course 2",
-          "Course 2"
+          "Business Consulting Master provided by Management Solutions company"
         ]
       },
       {
-        "institution": "Medfield College",
-        "title": "",
-        "url": "https://en.wikipedia.org/wiki/Medfield_College",
-        "start": "2003-09",
-        "end": "2005-06",
-        "grade": "3.2",
-        "summary": "A multiline summary of the education.",
+        "institution": "Higher Technical School of Telecommunications Engineering (ETSIT) - Technical University of Madrid",
+        "title": "Telecommunication Engineer",
+        "url": "http://www.upm.es",
+        "start": "2013",
+        "end": "2016",
+        "grade": "",
+        "summary": "",
         "curriculum": [
-          "Course 1",
-          "Course 2",
-          "Course 2"
+          "Master of Science accredited by: Engineering Accreditation Commission (ABET - Accreditation Board for Engineering and Technology)",
+          "Final Tesis Grade (10/10 - Distinction)"
+        ]
+      },
+      {
+        "institution": "Universität Stuttgart, Germany",
+        "title": "Master Infotech - Electronics",
+        "url": "https://www.uni-stuttgart.de",
+        "start": "2011",
+        "end": "2012",
+        "grade": "",
+        "summary": "",
+        "curriculum": [
         ]
       }
     ]
-  },
-  "affiliation": {
-    "summary": "Member of numerous collegiate and professional groups and organizations.",
-    "history": [
-      {
-        "role": "Member",
-        "organization": "IEEE",
-        "url": "https://www.ieee.org/index.html",
-        "start": "2013-06",
-        "summary": "Member in good standing since 2013-06."
-      },
-      {
-        "role": "Member",
-        "organization": "Apple Developer Network",
-        "url": "https://developer.apple.com/",
-        "summary": "Member of the [Apple Developer program](https://developer.apple.com/) since 2008."
-      },
-      {
-        "role": "Subscriber",
-        "organization": "MSDN",
-        "url": "https://msdn.microsoft.com",
-        "start": "2010",
-        "summary": "Super-Ultra-gold level Ultimate Access MSDN subscriber package with subscription toaster and XBox ping pong racket."
-      },
-      {
-        "role": "Coordinator",
-        "organization": "Campus Coder's Meetup",
-        "start": "2003-02",
-        "end": "2004-04",
-        "summary": "Host of a monthly **campus-wide meetup for CS students**. Code, coffee, and crullers!"
-      }
-    ]
-  },
-  "service": {
   },
   "skills": {
     "sets": [
       {
-        "name": "Web",
-        "level": "advanced",
+        "name": "Frontend",
         "skills": [
-          "JavaScript",
-          "HTML 5",
-          "CSS",
-          "LAMP",
-          "MVC",
-          "REST"
+          "Angular 2",
+          "ReactJS",
+          "Javascript (ES6)",
+          "HTML5",
+          "SASS",
+          "NodeJS",
+          "Webpack",
+          "Gulp",
+          "NPM/Yarn",
+          "Bootstrap 4",
+          "Jasmine",
+          "Karma",
+          "Protractor"
         ]
       },
       {
-        "name": "JavaScript",
-        "level": "master",
+        "name": "Agile",
         "skills": [
-          "Node.js",
-          "Angular.js",
-          "jQuery",
-          "Bootstrap",
-          "React.js",
-          "Backbone.js"
+          "Jira"
         ]
       },
       {
-        "name": "Database",
-        "level": "intermediate",
+        "name": "Development tooling",
         "skills": [
-          "MySQL",
-          "PostgreSQL",
-          "NoSQL",
-          "ORM",
-          "Hibernate"
-        ]
-      },
-      {
-        "name": "Cloud",
-        "level": "intermediate",
-        "skills": [
-          "AWS",
-          "EC2",
-          "RDS",
-          "S3",
-          "Azure",
-          "Dropbox"
+          "IntelliJ IDEA",
+          "Atom"
         ]
       },
       {
         "name": "Project",
-        "level": "beginner",
         "skills": [
-          "Agile",
-          "TFS",
-          "JIRA",
-          "GitHub",
-          "Unified Process",
-          "MS Project"
+          "Confluence",
+          "Bitbucket",
+          "Git",
+          "GitHub"
         ]
-      }
-    ],
-    "list": [
-      {
-        "name": "C++",
-        "id": "1",
-        "summary": "Optional summary of your experience with the skill.",
-        "level": "9",
-        "years": 7,
-        "proof": "http://myblog.com/interesting-cplusplus-post"
       },
       {
-        "name": "Ruby",
-        "id": "2",
-        "summary": "Optional summary of your experience with the skill.",
-        "level": "9",
-        "years": 7,
-        "proof": "http://myblog.com/interesting-cplusplus-post"
-      },
-      {
-        "name": "Xcode",
-        "summary": "Xcode 6 development.",
-        "level": "5",
-        "years": "3"
-      },
-      {
-        "name": "Linux",
-        "summary": "Optional summary of your experience with the skill.",
-        "level": "advanced",
-        "years": "4+"
-      },
-      {
-        "name": "Agile",
-        "summary": "Optional summary of your experience with the skill.",
-        "level": "B+",
-        "years": 2
+        "name": "Design",
+        "skills": [
+          "Photoshop",
+          "InDesign"
+        ]
       }
     ]
   },
-  "samples": [
-    {
-      "title": "Asteroids",
-      "summary": "A browser-based space shooter built on Three.js.",
-      "url": "http://janef.me/asteroids",
-      "date": "2014-09"
-    },
-    {
-      "title": "Rememberpedia",
-      "summary": "A website to help you remember things.",
-      "url": "https://rememberpedia.com",
-      "date": "2015-07"
-    }
-  ],
   "writing": [
     {
-      "title": "Teach Yourself GORFF in 21 Days",
-      "flavor": "book",
-      "date": "2008",
+      "title": "Ampliación de un Sistema de Gestión de Recursos Empresariales para una Pyme del Sector TIC",
+      "flavor": "Final Tesis",
+      "date": "2013",
       "publisher": {
-        "name": "Amazon",
-        "url": "https://www.amazon.com"
+        "name": "Technical University of Madrid",
+        "url": "http://www.upm.es"
       },
-      "url": "http://url.to.publication.com/blah",
+      "url": "",
       "author": [
-        "Jane Fullstacker",
-        "John Smith"
+        "Juan Diego de Miguel Mateo"
       ],
-      "summary": "A primer on the programming language of GORFF, whose for loops are coterminous with all of time and space."
-    },
-    {
-      "title": "Building User Interfaces with Electron and Atom",
-      "flavor": "article",
-      "date": "2011",
-      "publisher": {
-        "name": "Code Project",
-        "url": "http://codeproject.com"
-      },
-      "url": "http://codeproject.com/build-ui-electron-atom.aspx"
-    },
-    {
-      "title": "Jane Fullstacker's Blog",
-      "flavor": "blog",
-      "date": "2011",
-      "publisher": {
-        "name": "self",
-        "url": "http://janef.me"
-      },
-      "url": "http://janef.me"
-    }
-  ],
-  "reading": [
-    {
-      "title": "r/programming",
-      "flavor": "website",
-      "url": "https://www.reddit.com/r/programming/",
-      "summary": "Daily reader and longtime lurker."
-    },
-    {
-      "title": "Hacker News / YCombinator",
-      "flavor": "website",
-      "url": "https://news.ycombinator.com/",
-      "summary": "Daily reader and longtime lurker."
-    },
-    {
-      "title": "Coding Horror",
-      "flavor": "blog",
-      "url": "http://www.codinghorror.com",
-      "author": "Jeff Atwood",
-      "summary": "Reader since 2007; member of the StackOverflow Beta."
-    },
-    {
-      "title": "Code Complete",
-      "flavor": "book",
-      "url": "http://www.cc2e.com/Default.aspx",
-      "author": "Steve McConnell",
-      "date": "2014-09",
-      "summary": "My 'desert-island' software construction manual."
+      "summary": "Extended description about how the company and employee management system was created, all features implemented, technologies used in all the layers, etc."
     }
   ],
   "speaking": [
     {
-      "title": "Data Warehousing Evolved: DARMA 2.0",
+      "title": "3D Surface Modelling from Curves",
       "role": "Speaker",
-      "event": "OPENSTART 2013 Developer's Conference",
-      "location": "Portland, OR",
+      "event": "Advanced Topics in Graphical Engineering Systems",
+      "location": "Universität Stuttgart, Germany",
       "date": "2012",
       "highlights": [
-        "Won 'Best Presentation on an Emerging Technical Field' prize."
+        "Grade (10/10 - Distinction)"
+      ]
+    },
+    {
+      "title": "WCAG conference",
+      "role": "Speaker",
+      "event": "Internal Amadeus conferences",
+      "location": "Nice, France",
+      "date": "2016",
+      "highlights": [
+        "Periodic conferences to give a major WCAG perspective to new developers and how to cope it."
       ]
     }
   ],
-  "recognition": [
+  "certificates": [
     {
-      "flavor": "award",
-      "from": "Google",
-      "title": "Honorable Mention",
-      "event": "Summer of Code",
+      "title": "Certificate of Completion - Oracle Database 11g: Administration Workshop Ed II",
+      "location": "Madrid, Spain",
+      "date": "2014"
+    },
+    {
+      "title": "Skills Report Certificate - Medium / High level - AEIPRO / IPMA / UPM",
+      "location": "Madrid, Spain",
+      "date": "2011"
+    }
+  ],
+  "seminars": [
+    {
+      "title": "Advanced Topics in Graphical Engineering Systems",
+      "organism": "Universität Stuttgart",
+      "location": "Stuttgart, Germany",
       "date": "2012"
     },
     {
-      "flavor": "honor",
-      "from": "Cornell University",
-      "title": "Summa cum laude",
-      "event": "graduation",
+      "title": "Smart Integrated Micro Systems",
+      "organism": "Universität Stuttgart",
+      "location": "Stuttgart, Germany",
       "date": "2012"
-    }
-  ],
-  "references": [
-    {
-      "name": "John Davidson",
-      "flavor": "professional",
-      "private": true,
-      "contact": [
-        {
-          "label": "Mobile",
-          "flavor": "phone",
-          "value": "9-(999)-999-9999"
-        },
-        {
-          "label": "Work email",
-          "flavor": "email",
-          "value": "jdavidson@veridiandynamics.com"
-        }
-      ]
-    }
-  ],
-  "testimonials": [
-    {
-      "name": "John Davidson",
-      "flavor": "professional",
-      "quote": "Jane is awesome! I'd hire her again in a heartbeat.",
-      "private": true
-    },
-    {
-      "name": "Elias Fullstacker",
-      "flavor": "technical",
-      "quote": "I worked with Jane on Jabberwocky and can vouch for her awesome technical capabilities and attention to detail. Insta-hire."
-    },
-    {
-      "name": "Dana Nevins",
-      "flavor": "personal",
-      "quote": "I've known Jane personally and professionally for almost ten years. She is one in a million."
     }
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "Spanish",
       "level": "Native"
     },
     {
-      "language": "Spanish",
-      "level": "Moderate",
-      "years": 10
-    }
-  ],
-  "extracurricular": [
-    {
-      "title": "Bay Area Crew Club",
-      "activity": "",
-      "location": "San Francisco, CA",
-      "start": "2014-05"
+    "language": "English",
+    "level": "Fluent (B2 Trinity College London)"
     },
     {
-      "title": "Organizer / Manager",
-      "activity": "JavaScript Game Development Meetup",
-      "location": "Austin, TX",
-      "start": "2011-03",
-      "end": "2014-01",
-      "highlights": [
-        "Monthly speaker on creative JavaScript development.",
-        "Founded group and oversaw growth to 500+ members."
-      ]
-    }
-  ],
-  "governance": [
-    {
-      "flavor": "board",
-      "role": "Member",
-      "organization": "The Mommies Network",
-      "url": "http://themommiesnetwork.org",
-      "start": "2008-02",
-      "end": "2010-01",
-      "summary": "Since 2008 I've been a full-time member of the board of directors for TMN."
+      "language": "French",
+      "level": "B1 (Internal courses - Amadeus IT Group)"
     },
     {
-      "flavor": "committee",
-      "role": "Academic Contributor",
-      "organization": "Khronos Group",
-      "url": "https://www.khronos.org",
-      "start": "2015-01",
-      "highlights": [
-        "Participated in GORFF standardization process (Draft 2)."
-      ]
+      "language": "German",
+      "level": "A2+ ( Zeugnis (Extensive) - Stuttgart University)"
     }
   ],
   "interests": [
     {
-      "name": "reading",
-      "summary": "Jane is a fan of mystery novels and courtroom dramas including Agatha Christie and John Grisham.",
-      "keywords": [
-        "mystery",
-        "Agatha Christie",
-        "John Grisham"
-      ]
+      "name": "Spend free time learning frontend technologies"
     },
     {
-      "name": "hiking",
-      "summary": "Jane enjoys hiking, light mountain climbing, and has four summits under her belt!"
+      "name": "Read fantastic novels"
     },
     {
-      "name": "yoga"
+      "name": "Skying"
+    },
+    {
+      "name": "Tennis"
+    },
+    {
+      "name": "Padel"
     }
+  ],
+  "aboutMe": [
+    "I take seriously all development details, as for example how to improve the webapp or if the design is perfectly responsive for all devices",
+    "I like to read Frontend articles, stay alert on tweet news and check Youtube videos based on conferences (Google I/O, Web App Summit) or tutorials",
+    "I use to think when I finish a project how can I reuse the core structure and benefit from it, and also how to share it to other teams to have a company benefit.",
+    "I like brainstorming ideas to add to projects.",
+    "I'm passionate working with last frontend technologies such as Angular2 / React and learn how to improve the project's performance."
   ]
 }
