@@ -47,7 +47,7 @@
     },
     {
       "employer": "Amadeus IT Group",
-      "title": "Lufthansa booking & servicing application - WCAG compliant",
+      "title": "Lufthansa application - WCAG compliant",
       "category": "airline",
       "role": "Frontend developer",
       "url": "https://www.lufthansa.com",
@@ -460,18 +460,21 @@
   "skills": {
     "sets": [
       {
-        "name": "Frontend",
+        "name": "Frontend Technologies",
+        "icon": "devices_other",
         "skills": [
           "Angular 2",
           "ReactJS",
           "Javascript (ES6)",
-          "HTML5",
-          "SASS",
           "NodeJS",
           "Webpack",
           "Gulp",
           "NPM/Yarn",
+          "Google Material",
           "Bootstrap 4",
+          "Git",
+          "HTML5",
+          "SASS",
           "Jasmine",
           "Karma",
           "Protractor"
@@ -479,28 +482,33 @@
       },
       {
         "name": "Agile",
+        "icon": "dashboard",
         "skills": [
-          "Jira"
+          "Jira",
+          "Scrum"
         ]
       },
       {
         "name": "Development tooling",
+        "icon": "code",
         "skills": [
           "IntelliJ IDEA",
+          "Visual Studio Code",
           "Atom"
         ]
       },
       {
-        "name": "Project",
+        "name": "Project & team",
+        "icon": "cloud_queue",
         "skills": [
           "Confluence",
           "Bitbucket",
-          "Git",
           "GitHub"
         ]
       },
       {
         "name": "Design",
+        "icon": "web",
         "skills": [
           "Photoshop",
           "InDesign"
@@ -592,19 +600,24 @@
   ],
   "interests": [
     {
-      "name": "Spend free time learning frontend technologies"
+      "name": "Spend free time learning frontend technologies",
+      "icon": "desktop_windows"
     },
     {
-      "name": "Read fantastic novels"
+      "name": "Read fantastic novels",
+      "icon": "book"
     },
     {
-      "name": "Skying"
+      "name": "Go to the cinema",
+      "icon": "local_movies"
     },
     {
-      "name": "Tennis"
+      "name": "Play tennis / padel",
+      "icon": "wb_sunny"
     },
     {
-      "name": "Padel"
+      "name": "Skying",
+      "icon": "terrain"
     }
   ],
   "aboutMe": [
