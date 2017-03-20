@@ -29,7 +29,8 @@
   },
   "projects": [
     {
-      "employer": "Amadeus IT Group",
+      "id": 11,
+      "employerId": 5,
       "title": "Miles and More - Lufthansa AG",
       "category": "airline",
       "role": "Frontend developer",
@@ -46,7 +47,8 @@
       ]
     },
     {
-      "employer": "Amadeus IT Group",
+      "id": 10,
+      "employerId": 5,
       "title": "Lufthansa application - WCAG compliant",
       "category": "airline",
       "role": "Frontend developer",
@@ -65,7 +67,8 @@
       ]
     },
     {
-      "employer": "Management Solutions",
+      "id": 9,
+      "employerId": 4,
       "title": "SAI - Santander Bank database management tool",
       "category": "banking",
       "role": "Full Stack",
@@ -82,7 +85,8 @@
       ]
     },
     {
-      "employer": "Management Solutions",
+      "id": 8,
+      "employerId": 4,
       "title": "MIR - Risk management tool",
       "category": "banking",
       "role": "Full Stack",
@@ -99,7 +103,8 @@
       ]
     },
     {
-      "employer": "Juan Diego Miguel",
+      "id": 7,
+      "employerId": 2,
       "title": "Ribbers",
       "category": "Clothing",
       "role": "Full Stack",
@@ -116,7 +121,8 @@
       ]
     },
     {
-      "employer": "CRC Information Technologies",
+      "id": 6,
+      "employerId": 3,
       "title": "Iberia Empleo",
       "category": "Airline",
       "role": "Designer",
@@ -132,7 +138,8 @@
       ]
     },
     {
-      "employer": "CRC Information Technologies",
+      "id": 5,
+      "employerId": 3,
       "title": "Iberia Express Personal Management System",
       "category": "Airline",
       "role": "Designer",
@@ -148,7 +155,8 @@
       ]
     },
     {
-      "employer": "CRC Information Technologies",
+      "id": 4,
+      "employerId": 3,
       "title": "Cofrentes Nuclear Power Station Management System",
       "category": "Nuclear power station",
       "role": "Full Stack",
@@ -165,7 +173,8 @@
       ]
     },
     {
-      "employer": "CRC Information Technologies",
+      "id": 3,
+      "employerId": 3,
       "title": "Angular JS Experimental Project",
       "category": "Prototype",
       "role": "Full Stack",
@@ -181,7 +190,8 @@
       ]
     },
     {
-      "employer": "CRC Information Technologies",
+      "id": 2,
+      "employerId": 3,
       "title": "Chinpun Company Management System",
       "category": "Company management",
       "role": "Full Stack",
@@ -200,7 +210,8 @@
       ]
     },
     {
-      "employer": "Juan Diego Miguel",
+      "id": 1,
+      "employerId": 2,
       "title": "Juan Diego Miguel Website",
       "category": "Company management",
       "role": "Full Stack",
@@ -237,6 +248,7 @@
     "summary": "",
     "history": [
       {
+        "id": 5,
         "employer": "Amadeus IT Group",
         "location": "Nice, France",
         "url": "http://www.amadeus.com/",
@@ -286,6 +298,7 @@
         ]
       },
       {
+        "id": 4,
         "employer": "Management Solutions",
         "location": "Madrid, Spain",
         "url": "https://www.managementsolutions.com",
@@ -328,6 +341,7 @@
         ]
       },
       {
+        "id": 3,
         "employer": "CRC Information Technologies",
         "location": "Madrid, Spain",
         "url": "http://www.crcit.es/",
@@ -375,6 +389,7 @@
         ]
       },
       {
+        "id": 2,
         "employer": "Juan Diego Miguel",
         "location": "Madrid, Spain",
         "url": "http://www.juandiegomiguel.com",
@@ -402,6 +417,7 @@
         ]
       },
       {
+        "id": 1,
         "employer": "Fibre & Data",
         "location": "Torquay, United Kingdom (Torbay Innovation Centres)",
         "url": "",
