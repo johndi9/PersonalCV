@@ -6,13 +6,13 @@
   },
   "lastUpdate": "2016/11/01",
   "info": {
-    "label": "Frontend Developer",
-    "brief": "4+ years developing webapps with special passion and interest in all areas of Frontend development.",
+    "label": "Hi! I'm a Senior Frontend Developer working at Amadeus since 2015 and I'm specialized in Angular 2+.",
+    "brief": "I'm enthusiastic about new FrontEnd frameworks (Angular 2+ & React), JS/TS and functional programming.",
     "image": "profile/profile-pic.jpg",
-    "quote": "Details and motivation are the key to success"
+    "quote": ""
   },
   "contact": {
-    "website": "In process",
+    "website": "https://jdmiguel.xyz",
     "phone": "+33 783 08 96 27",
     "email": "johndi9@hotmail.com",
     "other": [
@@ -24,7 +24,7 @@
     ]
   },
   "location": {
-    "city": "Cannes",
+    "city": "Nice",
     "country": "France"
   },
   "projects": [
@@ -36,6 +36,8 @@
       "role": "Frontend developer",
       "url": "https://www.miles-and-more.com",
       "logo": "logos/miles-and-more.png",
+      "backgroundColor": "rgb(12, 32, 88)",
+      "color": "#fff",
       "start": "2016/01",
       "end": "",
       "description": "",
@@ -54,6 +56,7 @@
       "role": "Frontend developer",
       "url": "https://www.lufthansa.com",
       "logo": "logos/lufthansa.png",
+      "backgroundColor": "rgb(251, 186, 0)",
       "start": "2015/03",
       "end": "2015/12",
       "description": "",
@@ -74,6 +77,8 @@
       "role": "Full Stack",
       "url": "",
       "logo": "logos/santander.png",
+      "backgroundColor": "rgb(236, 0, 0)",
+      "color": "#fff",
       "start": "2014/06",
       "end": "2014/11",
       "description": "",
@@ -92,6 +97,8 @@
       "role": "Full Stack",
       "url": "",
       "logo": "logos/bbva.png",
+      "backgroundColor": "#004c99",
+      "color": "#fff",
       "start": "2014/02",
       "end": "2014/06",
       "description": "",
@@ -109,7 +116,7 @@
       "category": "Clothing",
       "role": "Full Stack",
       "url": "",
-      "logo": "logos/ribbers.png",
+      "download": "Ribbers.pdf",
       "start": "2014/01",
       "end": "2014/04",
       "description": "",
@@ -128,6 +135,8 @@
       "role": "Designer",
       "url": "https://portal.iberia.es/iberiaEmpleo/",
       "logo": "logos/iberia.png",
+      "backgroundColor": "rgb(214, 10, 51)",
+      "color": "#fff",
       "start": "2013/09",
       "end": "2013/11",
       "description": "",
@@ -162,6 +171,8 @@
       "role": "Full Stack",
       "url": "",
       "logo": "logos/tecnatom.png",
+      "backgroundColor": "rgb(116, 59, 145)",
+      "color": "#fff",
       "start": "2013/04",
       "end": "2013/06",
       "description": "",
@@ -180,6 +191,8 @@
       "role": "Full Stack",
       "url": "",
       "logo": "logos/crc-it.png",
+      "backgroundColor": "rgb(232, 80, 40)",
+      "color": "#fff",
       "start": "2013/06",
       "end": "2013/07",
       "description": "",
@@ -197,6 +210,8 @@
       "role": "Full Stack",
       "url": "",
       "logo": "logos/crc-it.png",
+      "backgroundColor": "rgb(232, 80, 40)",
+      "color": "#fff",
       "start": "2012/10",
       "end": "2013/12",
       "description": "",
@@ -216,7 +231,6 @@
       "category": "Company management",
       "role": "Full Stack",
       "url": "http://www.juandiegomiguel.com",
-      "logo": "logos/juan-diego.png",
       "start": "2011/02",
       "end": "2013/04",
       "description": "",
@@ -232,14 +246,20 @@
   ],
   "social": [
     {
+      "label": "LinkedIn",
+      "icon": "linkedin",
+      "user": "",
+      "url": "http://es.linkedin.com/pub/juan-diego-de-miguel-mateo/41/536/6a6"
+    },
+    {
       "label": "GitHub",
-      "network": "GitHub",
+      "icon": "github",
       "user": "johndi9",
       "url": "https://github.com/johndi9"
     },
     {
       "label": "Twitter",
-      "network": "Twitter",
+      "icon": "twitter",
       "user": "juandiegodemi",
       "url": "https://twitter.com/juandiegodemi"
     }
@@ -253,12 +273,15 @@
         "location": "Nice, France",
         "url": "http://www.amadeus.com/",
         "logo": "logos/amadeus.png",
-        "position": "Frontend Developer",
-        "summary": "Frontend expert for Lufthansa/Miles and More clients.",
+        "backgroundColor": "rgb(0, 94, 184)",
+        "color": "#fff",
+        "position": "Senior Frontend Developer",
+        "summary": "Senior Frontend expert for Lufthansa / Miles & More clients.",
         "start": "2015/01",
         "end": "",
         "keywords": [
-          "Angular 2 (from beta) in Typescript",
+          "Angular 2 (from beta)",
+          "Typescript",
           "ReactJS in JSX",
           "Javascript (ES6)",
           "HTML5",
@@ -303,6 +326,8 @@
         "location": "Madrid, Spain",
         "url": "https://www.managementsolutions.com",
         "logo": "logos/management-solutions.png",
+        "backgroundColor": "rgb(1, 33, 82)",
+        "color": "#fff",
         "position": "Analyst Programmer",
         "summary": "Full Stack for Santander bank in Mexico / CECA bank",
         "start": "2014/02",
@@ -346,6 +371,8 @@
         "location": "Madrid, Spain",
         "url": "http://www.crcit.es/",
         "logo": "logos/crc-it.png",
+        "backgroundColor": "rgb(232, 80, 40)",
+        "color": "#fff",
         "position": "Software engineer",
         "summary": "Company management system developer and designer",
         "start": "2012/10",
@@ -393,7 +420,6 @@
         "employer": "Juan Diego Miguel",
         "location": "Madrid, Spain",
         "url": "http://www.juandiegomiguel.com",
-        "logo": "logos/juan-diego.png",
         "position": "Full Stack",
         "summary": "Product developer and designer",
         "start": "2011/02",
@@ -438,7 +464,9 @@
       {
         "institution": "Comillas Pontifical University - ICADE Business School",
         "title": "Business Consulting Master",
+        "location": "Madrid, Spain",
         "url": "http://www.comillas.edu",
+        "logo": "logos/comillas.png",
         "start": "2014",
         "end": "2014",
         "grade": "",
@@ -450,7 +478,9 @@
       {
         "institution": "Higher Technical School of Telecommunications Engineering (ETSIT) - Technical University of Madrid",
         "title": "Telecommunication Engineer",
+        "location": "Madrid, Spain",
         "url": "http://www.upm.es",
+        "logo": "logos/upm.png",
         "start": "2006",
         "end": "2013",
         "grade": "",
@@ -463,7 +493,9 @@
       {
         "institution": "Universität Stuttgart, Germany",
         "title": "Master Infotech - Electronics",
+        "location": "Stuttgart, Germany",
         "url": "https://www.uni-stuttgart.de",
+        "logo": "logos/universitat-stuttgart.png",
         "start": "2011",
         "end": "2012",
         "grade": "",
@@ -542,6 +574,7 @@
         "url": "http://www.upm.es"
       },
       "url": "",
+      "logo": "logos/upm.png",
       "author": [
         "Juan Diego de Miguel Mateo"
       ],
@@ -555,6 +588,8 @@
       "event": "Advanced Topics in Graphical Engineering Systems",
       "location": "Universität Stuttgart, Germany",
       "date": "2012",
+      "url": "",
+      "logo": "logos/universitat-stuttgart.png",
       "highlights": [
         "Grade (10/10 - Distinction)"
       ]
@@ -565,6 +600,8 @@
       "event": "Internal Amadeus conferences",
       "location": "Nice, France",
       "date": "2016",
+      "url": "",
+      "logo": "logos/amadeus.png",
       "highlights": [
         "Periodic conferences to give a major WCAG perspective to new developers and how to cope it."
       ]
@@ -602,16 +639,16 @@
       "level": "Native"
     },
     {
-    "language": "English",
-    "level": "Fluent (B2 Trinity College London)"
+      "language": "English",
+      "level": "Fluent (Trinity College London Certificate)"
     },
     {
       "language": "French",
-      "level": "B1 (Internal courses - Amadeus IT Group)"
+      "level": "B2 (Internal courses - Amadeus IT Group)"
     },
     {
       "language": "German",
-      "level": "A2+ ( Zeugnis (Extensive) - Stuttgart University)"
+      "level": "A2+ (Zeugnis (Extensive) - Stuttgart University)"
     }
   ],
   "interests": [
@@ -632,15 +669,16 @@
       "icon": "wb_sunny"
     },
     {
-      "name": "Skying",
+      "name": "Skiing",
       "icon": "terrain"
     }
   ],
   "aboutMe": [
-    "I take seriously all development details, as for example how to improve the webapp or if the design is perfectly responsive for all devices",
-    "I like to read Frontend articles, stay alert on tweet news and check Youtube videos based on conferences (Google I/O, Web App Summit) or tutorials",
-    "I use to think when I finish a project how can I reuse the core structure and benefit from it, and also how to share it to other teams to have a company benefit.",
-    "I like brainstorming ideas to add to projects.",
-    "I'm passionate working with last frontend technologies such as Angular2 / React and learn how to improve the project's performance."
+    "I take very seriously all development details, from the architectural patterns and the overall performance to the perfect responsive design in different devices.",
+    "I like to read Frontend articles (Medium, Blogs), keep updated on Twitter and check Youtube tutorials and conferences (Google I/O, Web App Summit).",
+    "Once I finish a project, I use to think how I can reuse the core structure and benefit from it, and also how to share it with other teams.",
+    "I like to discuss with people about architectural patterns, previous experiences in other projects/companies and new technologies.",
+    "Nowadays, I'm passionate working with the latest frontend technologies such as Angular 2+ (like this website) or React and be able to decompose the web in components.",
+    "I have had the chance to work with very skilled people that have allowed me to improve a lot in different areas. The team is the most important structure and not the individuals."
   ]
 }
