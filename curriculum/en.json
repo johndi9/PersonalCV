@@ -1,10 +1,10 @@
 {
-  "name": "Juan Diego de Miguel Mateo",
+  "name": "Juan Diego de Miguel",
   "meta": {
     "format": "FRESH@0.6.0",
     "version": "0.0.0"
   },
-  "lastUpdate": "2016/11/01",
+  "lastUpdate": "2018/10/01",
   "info": {
     "label": "Hi! I'm a Senior Frontend Developer working at Amadeus since 2015 and I'm specialized in Angular 2+.",
     "brief": "I'm enthusiastic about new FrontEnd frameworks (Angular 2+ & React), JS/TS and functional programming.",
@@ -13,7 +13,7 @@
   },
   "contact": {
     "website": "https://jdmiguel.xyz",
-    "phone": "+33 783 08 96 27",
+    "phone": "+34 687 24 96 80",
     "email": "johndi9@hotmail.com",
     "other": [
       {
@@ -24,26 +24,85 @@
     ]
   },
   "location": {
-    "city": "Nice",
-    "country": "France"
+    "city": "Madrid",
+    "country": "Spain",
+    "latitude": 40.475703,
+    "longitude": -3.687738
   },
   "projects": [
+    {
+      "id": 14,
+      "employerId": 6,
+      "title": "Reviews project",
+      "category": "Vacation rental",
+      "role": "Senior frontend developer",
+      "url": "https://www.homeaway.com/",
+      "logo": "logos/homeaway.png",
+      "backgroundColor": "rgb(1, 103, 219)",
+      "color": "#fff",
+      "start": "2018/06",
+      "end": "",
+      "description": "",
+      "summary": "New architecture for reviews product",
+      "keywords": [],
+      "highlights": []
+    },
+    {
+      "id": 13,
+      "employerId": 5,
+      "title": "United Airlines Instant Search",
+      "category": "Airline",
+      "role": "Team Leader",
+      "url": "https://www.united.com/",
+      "logo": "logos/united-airlines.png",
+      "backgroundColor": "rgb(0, 46, 148)",
+      "color": "#fff",
+      "start": "2017/11",
+      "end": "2018/05",
+      "description": "",
+      "summary": "Flexpricer proof of concept for United Airlines and other airline clients",
+      "keywords": [],
+      "highlights": [
+        "Full Angular 6 project to use Flexpricer product initially for United Airlines and later for all the airline clients interested.",
+        "Team leader of the project, working in parallel with Amadeus core teams to reuse the new airline frontend generator."
+      ]
+    },
+    {
+      "id": 12,
+      "employerId": 5,
+      "title": "Lufthansa application - Core app migration to Angular 4",
+      "category": "Airline",
+      "role": "Team Leader",
+      "url": "https://www.lufthansa.com",
+      "logo": "logos/lufthansa.png",
+      "backgroundColor": "rgb(251, 186, 0)",
+      "start": "2017/01",
+      "end": "2017/10",
+      "description": "",
+      "summary": "Initial global migration to Angular Framework.",
+      "keywords": [],
+      "highlights": [
+        "Frontend build unification with Webpack. Before, several files were fetched on each page load, having a load performance penalty. This project achieved to have only two local JS files to be loaded (polyfills + main JS file).",
+        "Person to lead the first phase of Lufthansa's core migration to Angular. This migration impacted architecturally hundreds of files in terms of componentization and state management."
+      ]
+    },
     {
       "id": 11,
       "employerId": 5,
       "title": "Miles and More - Lufthansa AG",
-      "category": "airline",
+      "category": "Airline",
       "role": "Frontend developer",
       "url": "https://www.miles-and-more.com",
       "logo": "logos/miles-and-more.png",
       "backgroundColor": "rgb(12, 32, 88)",
       "color": "#fff",
       "start": "2016/01",
-      "end": "",
+      "end": "2016/12",
       "description": "",
       "summary": "Miles and More web app allows the user to do flight reservations with personal miles, upgrade reservations to different fares and many other services.",
       "keywords": [],
       "highlights": [
+        "Frontend expert in the project, defining the structure to follow and supervising the correct evolution of the team and the project.",
         "Full renovation of the current MaM application from JSP + JQuery to Angular 2+ (developing the project in the first beta versions of Angular 2) in Typescript.",
         "In charge of developing the availability flight table + seat map, complex interfaces that need to be re-rendered efficiently with Angular´s change detection."
       ]
@@ -52,7 +111,7 @@
       "id": 10,
       "employerId": 5,
       "title": "Lufthansa application - WCAG compliant",
-      "category": "airline",
+      "category": "Airline",
       "role": "Frontend developer",
       "url": "https://www.lufthansa.com",
       "logo": "logos/lufthansa.png",
@@ -72,8 +131,8 @@
     {
       "id": 9,
       "employerId": 4,
-      "title": "SAI - Santander Bank database management tool",
-      "category": "banking",
+      "title": "SAI - Santander Bank database management tool in Mexico",
+      "category": "Banking",
       "role": "Full Stack",
       "url": "",
       "logo": "logos/santander.png",
@@ -93,7 +152,7 @@
       "id": 8,
       "employerId": 4,
       "title": "MIR - Risk management tool",
-      "category": "banking",
+      "category": "Banking",
       "role": "Full Stack",
       "url": "",
       "logo": "logos/bbva.png",
@@ -268,6 +327,50 @@
     "summary": "",
     "history": [
       {
+        "id": 6,
+        "employer": "HomeAway",
+        "location": "Madrid, Spain",
+        "url": "https://www.homeaway.com/",
+        "logo": "logos/homeaway.png",
+        "backgroundColor": "rgb(1, 103, 219)",
+        "color": "#fff",
+        "position": "Senior Frontend Developer",
+        "summary": "Senior Frontend expert for HomeAway.",
+        "start": "2018/06",
+        "end": "",
+        "keywords": [
+          "React",
+          "Javascript",
+          "Typescript",
+          "HTML5",
+          "LESS",
+          "NodeJS",
+          "Hapi",
+          "Webpack",
+          "NPM",
+          "Lighthouse",
+          "A/B Testing",
+          "Kanban",
+          "Jasmine",
+          "Karma",
+          "Chai",
+          "Puppeteer",
+          "IntelliJ IDEA",
+          "Github",
+          "Confluence",
+          "Jira",
+          "Git",
+          "OSX",
+          "Docker",
+          "Datadog",
+          "Terraform",
+          "Splunk",
+          "Google Analytics",
+          "Jenkins"
+        ],
+        "highlights": []
+      },
+      {
         "id": 5,
         "employer": "Amadeus IT Group",
         "location": "Nice, France",
@@ -278,9 +381,9 @@
         "position": "Senior Frontend Developer",
         "summary": "Senior Frontend expert for Lufthansa / Miles & More clients.",
         "start": "2015/01",
-        "end": "",
+        "end": "2018/05",
         "keywords": [
-          "Angular 2 (from beta)",
+          "Angular",
           "Typescript",
           "ReactJS in JSX",
           "Javascript (ES6)",
