@@ -6,8 +6,8 @@
   },
   "lastUpdate": "2018/10/01",
   "info": {
-    "label": "Hi! I'm a Senior Frontend Developer working at Amadeus since 2015 and I'm specialized in Angular 2+.",
-    "brief": "I'm enthusiastic about new FrontEnd frameworks (Angular 2+ & React), JS/TS and functional programming.",
+    "label": "Hi! I'm a Senior Frontend Developer working at HomeAway since 2018 and I'm specialized in Angular & React.",
+    "brief": "My top priorities are performance metrics' analysis, get functional business knowledge and help the team succeed with any project.",
     "image": "profile/profile-pic.jpg",
     "quote": ""
   },
@@ -614,21 +614,34 @@
         "name": "Frontend Technologies",
         "icon": "devices_other",
         "skills": [
-          "Angular 2",
-          "ReactJS",
-          "Javascript (ES6)",
-          "NodeJS",
-          "Webpack",
-          "Gulp",
-          "NPM/Yarn",
-          "Google Material",
-          "Bootstrap 4",
-          "Git",
+          "Angular",
+          "React",
+          "Javascript",
+          "Typescript",
           "HTML5",
           "SASS",
+          "Bootstrap 4",
+          "NodeJS",
+          "Hapi",
+          "Webpack",
+          "NPM",
           "Jasmine",
           "Karma",
-          "Protractor"
+          "Chai",
+          "Puppeteer"
+        ]
+      },
+      {
+        "name": "Metrics & Pipelines",
+        "icon": "insert_chart_outlined",
+        "skills": [
+          "Datadog",
+          "Terraform",
+          "Splunk",
+          "Lighthouse",
+          "Google Analytics",
+          "A/B Testing",
+          "Jenkins"
         ]
       },
       {
@@ -636,7 +649,8 @@
         "icon": "dashboard",
         "skills": [
           "Jira",
-          "Scrum"
+          "Scrum",
+          "Kanban"
         ]
       },
       {
@@ -652,9 +666,11 @@
         "name": "Project & team",
         "icon": "cloud_queue",
         "skills": [
+          "Jira",
           "Confluence",
           "Bitbucket",
-          "GitHub"
+          "GitHub",
+          "Gitlab"
         ]
       },
       {
@@ -670,8 +686,8 @@
   "writing": [
     {
       "title": "Ampliación de un Sistema de Gestión de Recursos Empresariales para una Pyme del Sector TIC",
-      "flavor": "Final Tesis",
-      "date": "2013",
+      "flavor": "Final Thesis",
+      "date": "2013/11",
       "publisher": {
         "name": "Technical University of Madrid",
         "url": "http://www.upm.es"
@@ -690,7 +706,7 @@
       "role": "Speaker",
       "event": "Advanced Topics in Graphical Engineering Systems",
       "location": "Universität Stuttgart, Germany",
-      "date": "2012",
+      "date": "2012/06",
       "url": "",
       "logo": "logos/universitat-stuttgart.png",
       "highlights": [
@@ -702,7 +718,7 @@
       "role": "Speaker",
       "event": "Internal Amadeus conferences",
       "location": "Nice, France",
-      "date": "2016",
+      "date": "2016/01",
       "url": "",
       "logo": "logos/amadeus.png",
       "highlights": [
@@ -712,14 +728,19 @@
   ],
   "certificates": [
     {
+      "title": "Certificate of Cyber Security - Amadeus IT Group",
+      "location": "Madrid, Spain",
+      "date": "2016/12"
+    },
+    {
       "title": "Certificate of Completion - Oracle Database 11g: Administration Workshop Ed II",
       "location": "Madrid, Spain",
-      "date": "2014"
+      "date": "2014/10"
     },
     {
       "title": "Skills Report Certificate - Medium / High level - AEIPRO / IPMA / UPM",
       "location": "Madrid, Spain",
-      "date": "2011"
+      "date": "2011/01"
     }
   ],
   "seminars": [
@@ -727,13 +748,13 @@
       "title": "Advanced Topics in Graphical Engineering Systems",
       "organism": "Universität Stuttgart",
       "location": "Stuttgart, Germany",
-      "date": "2012"
+      "date": "2012/01"
     },
     {
       "title": "Smart Integrated Micro Systems",
       "organism": "Universität Stuttgart",
       "location": "Stuttgart, Germany",
-      "date": "2012"
+      "date": "2012/01"
     }
   ],
   "languages": [
@@ -781,7 +802,7 @@
     "I like to read Frontend articles (Medium, Blogs), keep updated on Twitter and check Youtube tutorials and conferences (Google I/O, Web App Summit).",
     "Once I finish a project, I use to think how I can reuse the core structure and benefit from it, and also how to share it with other teams.",
     "I like to discuss with people about architectural patterns, previous experiences in other projects/companies and new technologies.",
-    "Nowadays, I'm passionate working with the latest frontend technologies such as Angular 2+ (like this website) or React and be able to decompose the web in components.",
+    "Nowadays, I'm passionate working with the latest frontend technologies such as Angular (like this website) & React and be able to decompose the web in components.",
     "I have had the chance to work with very skilled people that have allowed me to improve a lot in different areas. The team is the most important structure and not the individuals."
   ]
 }
