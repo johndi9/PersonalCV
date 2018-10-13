@@ -8,7 +8,10 @@
   "info": {
     "label": "Hi! I'm a Senior Frontend Developer working at HomeAway since 2018 and I'm specialized in Angular & React.",
     "brief": "My top priorities are performance metrics' analysis, get functional business knowledge and help the team succeed with any project.",
-    "image": "profile/profile-pic.jpg",
+    "image": {
+      "path": "profile/profile-pic",
+      "format": "jpg"
+    },
     "quote": ""
   },
   "contact": {
@@ -37,7 +40,10 @@
       "category": "Vacation rental",
       "role": "Senior frontend developer",
       "url": "https://www.homeaway.com/",
-      "logo": "logos/homeaway.png",
+      "logo": {
+        "path": "logos/homeaway",
+        "format": "png"
+      },
       "backgroundColor": "rgb(1, 103, 219)",
       "color": "#fff",
       "start": "2018/06",
@@ -54,7 +60,10 @@
       "category": "Airline",
       "role": "Team Leader",
       "url": "https://www.united.com/",
-      "logo": "logos/united-airlines.png",
+      "logo": {
+        "path": "logos/united-airlines",
+        "format": "png"
+      },
       "backgroundColor": "rgb(0, 46, 148)",
       "color": "#fff",
       "start": "2017/11",
@@ -74,7 +83,10 @@
       "category": "Airline",
       "role": "Team Leader",
       "url": "https://www.lufthansa.com",
-      "logo": "logos/lufthansa.png",
+      "logo": {
+        "path": "logos/lufthansa",
+        "format": "png"
+      },
       "backgroundColor": "rgb(251, 186, 0)",
       "start": "2017/01",
       "end": "2017/10",
@@ -93,7 +105,10 @@
       "category": "Airline",
       "role": "Frontend developer",
       "url": "https://www.miles-and-more.com",
-      "logo": "logos/miles-and-more.png",
+      "logo": {
+        "path": "logos/miles-and-more",
+        "format": "png"
+      },
       "backgroundColor": "rgb(12, 32, 88)",
       "color": "#fff",
       "start": "2016/01",
@@ -114,7 +129,10 @@
       "category": "Airline",
       "role": "Frontend developer",
       "url": "https://www.lufthansa.com",
-      "logo": "logos/lufthansa.png",
+      "logo": {
+        "path": "logos/lufthansa",
+        "format": "png"
+      },
       "backgroundColor": "rgb(251, 186, 0)",
       "start": "2015/03",
       "end": "2015/12",
@@ -135,7 +153,10 @@
       "category": "Banking",
       "role": "Full Stack",
       "url": "",
-      "logo": "logos/santander.png",
+      "logo": {
+        "path": "logos/santander",
+        "format": "png"
+      },
       "backgroundColor": "rgb(236, 0, 0)",
       "color": "#fff",
       "start": "2014/06",
@@ -155,7 +176,10 @@
       "category": "Banking",
       "role": "Full Stack",
       "url": "",
-      "logo": "logos/bbva.png",
+      "logo": {
+        "path": "logos/bbva",
+        "format": "png"
+      },
       "backgroundColor": "#004c99",
       "color": "#fff",
       "start": "2014/02",
@@ -193,7 +217,10 @@
       "category": "Airline",
       "role": "Designer",
       "url": "https://portal.iberia.es/iberiaEmpleo/",
-      "logo": "logos/iberia.png",
+      "logo": {
+        "path": "logos/iberia",
+        "format": "png"
+      },
       "backgroundColor": "rgb(214, 10, 51)",
       "color": "#fff",
       "start": "2013/09",
@@ -212,7 +239,10 @@
       "category": "Airline",
       "role": "Designer",
       "url": "",
-      "logo": "logos/iberia-express.png",
+      "logo": {
+        "path": "logos/iberia-express",
+        "format": "png"
+      },
       "start": "2013/08",
       "end": "2013/09",
       "description": "",
@@ -229,7 +259,10 @@
       "category": "Nuclear power station",
       "role": "Full Stack",
       "url": "",
-      "logo": "logos/tecnatom.png",
+      "logo": {
+        "path": "logos/tecnatom",
+        "format": "png"
+      },
       "backgroundColor": "rgb(116, 59, 145)",
       "color": "#fff",
       "start": "2013/04",
@@ -249,7 +282,10 @@
       "category": "Prototype",
       "role": "Full Stack",
       "url": "",
-      "logo": "logos/crc-it.png",
+      "logo": {
+        "path": "logos/crc-it",
+        "format": "png"
+      },
       "backgroundColor": "rgb(232, 80, 40)",
       "color": "#fff",
       "start": "2013/06",
@@ -268,7 +304,10 @@
       "category": "Company management",
       "role": "Full Stack",
       "url": "",
-      "logo": "logos/crc-it.png",
+      "logo": {
+        "path": "logos/crc-it",
+        "format": "png"
+      },
       "backgroundColor": "rgb(232, 80, 40)",
       "color": "#fff",
       "start": "2012/10",
@@ -331,7 +370,10 @@
         "employer": "HomeAway",
         "location": "Madrid, Spain",
         "url": "https://www.homeaway.com/",
-        "logo": "logos/homeaway.png",
+        "logo": {
+          "path": "logos/homeaway",
+          "format": "png"
+        },
         "backgroundColor": "rgb(1, 103, 219)",
         "color": "#fff",
         "position": "Senior Frontend Developer",
@@ -375,7 +417,10 @@
         "employer": "Amadeus IT Group",
         "location": "Nice, France",
         "url": "http://www.amadeus.com/",
-        "logo": "logos/amadeus.png",
+        "logo": {
+          "path": "logos/amadeus",
+          "format": "png"
+        },
         "backgroundColor": "rgb(0, 94, 184)",
         "color": "#fff",
         "position": "Senior Frontend Developer",
@@ -428,7 +473,10 @@
         "employer": "Management Solutions",
         "location": "Madrid, Spain",
         "url": "https://www.managementsolutions.com",
-        "logo": "logos/management-solutions.png",
+        "logo": {
+          "path": "logos/management-solutions",
+          "format": "png"
+        },
         "backgroundColor": "rgb(1, 33, 82)",
         "color": "#fff",
         "position": "Analyst Programmer",
@@ -473,7 +521,10 @@
         "employer": "CRC Information Technologies",
         "location": "Madrid, Spain",
         "url": "http://www.crcit.es/",
-        "logo": "logos/crc-it.png",
+        "logo": {
+          "path": "logos/crc-it",
+          "format": "png"
+        },
         "backgroundColor": "rgb(232, 80, 40)",
         "color": "#fff",
         "position": "Software engineer",
@@ -569,7 +620,10 @@
         "title": "Business Consulting Master",
         "location": "Madrid, Spain",
         "url": "http://www.comillas.edu",
-        "logo": "logos/comillas.png",
+        "logo": {
+          "path": "logos/comillas",
+          "format": "png"
+        },
         "start": "2014",
         "end": "2014",
         "grade": "",
@@ -583,7 +637,10 @@
         "title": "Telecommunication Engineer",
         "location": "Madrid, Spain",
         "url": "http://www.upm.es",
-        "logo": "logos/upm.png",
+        "logo": {
+          "path": "logos/upm",
+          "format": "png"
+        },
         "start": "2006",
         "end": "2013",
         "grade": "",
@@ -598,7 +655,10 @@
         "title": "Master Infotech - Electronics",
         "location": "Stuttgart, Germany",
         "url": "https://www.uni-stuttgart.de",
-        "logo": "logos/universitat-stuttgart.png",
+        "logo": {
+          "path": "logos/universitat-stuttgart",
+          "format": "png"
+        },
         "start": "2011",
         "end": "2012",
         "grade": "",
@@ -693,7 +753,10 @@
         "url": "http://www.upm.es"
       },
       "url": "",
-      "logo": "logos/upm.png",
+      "logo": {
+        "path": "logos/upm",
+        "format": "png"
+      },
       "author": [
         "Juan Diego de Miguel Mateo"
       ],
@@ -708,7 +771,10 @@
       "location": "Universität Stuttgart, Germany",
       "date": "2012/06",
       "url": "",
-      "logo": "logos/universitat-stuttgart.png",
+      "logo": {
+        "path": "logos/universitat-stuttgart",
+        "format": "png"
+      },
       "highlights": [
         "Grade (10/10 - Distinction)"
       ]
@@ -720,7 +786,10 @@
       "location": "Nice, France",
       "date": "2016/01",
       "url": "",
-      "logo": "logos/amadeus.png",
+      "logo": {
+        "path": "logos/amadeus",
+        "format": "png"
+      },
       "highlights": [
         "Periodic conferences to give a major WCAG perspective to new developers and how to cope it."
       ]
